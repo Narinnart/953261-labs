@@ -18,8 +18,7 @@ Then open <http://localhost:3000> and <http://localhost:3000/api/me>.
 
 ## What I learned today
 
-_Write 2–3 sentences in your own words: what happens between typing a URL and seeing the page?_
-
+Small steps every day lead to big achievements over time.
+Keep coding, stay curious, and enjoy the journey of learning.
 ## AI-use statement
-
-_Did you use an AI tool in this lab? If yes, which one and for what (e.g., "ChatGPT to explain a Git error message"). If no, write "No AI tools used."_
+gemini
